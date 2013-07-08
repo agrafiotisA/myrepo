@@ -1,3 +1,2 @@
 line1
-line3
-Add another line
+line2
